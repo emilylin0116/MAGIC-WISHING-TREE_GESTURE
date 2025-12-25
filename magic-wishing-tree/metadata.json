@@ -1,0 +1,7 @@
+{
+  "name": "MAGIC WISHING TREE",
+  "description": "A high-performance interactive 3D Christmas experience using React Three Fiber and MediaPipe Hand Tracking. Control a procedural 7000+ particle tree with hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
